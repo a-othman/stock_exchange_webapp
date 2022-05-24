@@ -14,4 +14,4 @@ This is a Falsk app where users get to signup and trade stocks. It uses [IEX](ht
 - Sqlite3
 
 
-
+[Life Demo](https://quiet-fjord-37423.herokuapp.com/login)
